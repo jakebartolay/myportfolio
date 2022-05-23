@@ -16,7 +16,7 @@
 
   <!--HEADER-->
   <div class="row-cols-auto text-center">
-    <img src="https://zukameku.github.io/jakebartolay/public/profile/ben19.jpg" class="img-dp" alt="jakebartolay"/>
+    <img src="https://zukameku.github.io/jakebartolay/public/profile/ben19.jpg" class="img-dp" alt="jakep.bartolay"/>
   </div>
   <div class="container-fluid">
     <header class="text-center p-1">
