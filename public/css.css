@@ -1,0 +1,71 @@
+* {
+    background: #23272a;
+    font-family: 'consolas' ;
+    color: white;
+}
+
+.sub-color{
+    color: rgba(34, 245, 6, 0.808);
+}
+
+.height{
+    height: 50%;
+}
+
+.img-dp {
+    border-radius: 50%;
+    border: solid 5px white;
+    height: 200px;
+    width: 200px;
+}
+
+hr.new4 {
+    border: 2px solid rgba(34, 245, 6, 0.808);
+    max-width: 65%;
+    position: absolute;
+    margin-top: 40px;
+}
+
+little{
+    font-size: 80%;
+    position: absolute;
+}
+
+.footer{
+    font-size: 90%;
+    color: white;
+    text-align: center;
+}
+
+.body {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+}
+
+spann {
+    font-size: 3em;
+    position: relative;
+  }
+  spann:after {
+    position: absolute;
+    content: attr(content);
+    top: 0;
+    left: 0;
+    -webkit-transition: all 750ms;
+    -moz-transition: all 750ms;
+    -o-transition: all 750ms;
+    transition: all 750ms;
+    -webkit-transform-origin: bottom left;
+    -ms-transform-origin: bottom left;
+    transform-origin: bottom left;
+  }
+  spann:hover:after {
+    -webkit-transform: skew(10deg, 25deg);
+    -ms-transform: skew(10deg, 25deg);
+    transform: skew(10deg, 25deg);
+  }
+
+  .text-md {
+    font-size: 72%;
+}
