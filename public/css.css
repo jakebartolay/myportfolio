@@ -82,3 +82,7 @@ spann {
 .color-blue{
     color: blue;
 }
+
+.ul .li a{
+    text-decoration: none;
+}
