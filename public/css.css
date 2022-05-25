@@ -1,7 +1,6 @@
 * {
     background: #23272a;
     font-family: 'consolas' ;
-    color: white;
 }
 
 .sub-color{
@@ -64,5 +63,5 @@ spann {
   }
 
   .text-md {
-    font-size: 72%;
+    font-size: 60%;
 }
