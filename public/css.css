@@ -65,3 +65,10 @@ spann {
   .text-md {
     font-size: 60%;
 }
+@media (max-width: 370px) {
+    .fa, .checked{
+        width: 100%;
+        font-size: 20px;
+    }
+    
+}
