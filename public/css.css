@@ -3,6 +3,18 @@
     font-family: 'consolas' ;
 }
 
+::-webkit-scrollbar{
+    width: 20px;
+}
+
+::-webkit-scrollbar{
+    background-color: #dddddd;
+}
+
+::-webkit-scrollbar{
+    background-color: rgba(34, 245, 6, 0.808);
+}
+
 .sub-color{
     color: rgba(34, 245, 6, 0.808);
 }
