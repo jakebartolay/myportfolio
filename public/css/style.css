@@ -1,6 +1,6 @@
 * {
     background: #23272a;
-    font-family: 'consolas' ;
+    font-family: 'consolas';
 }
 
 ::-webkit-scrollbar{
@@ -44,12 +44,6 @@ little{
     font-size: 90%;
     color: white;
     text-align: center;
-}
-
-.body {
-    position: absolute;
-    top: 40%;
-    width: 100%;
 }
 
 spann {
@@ -96,6 +90,11 @@ spann {
     color: white;
 }
 
+.bg-itim{
+    background-color: #23272a;
+}
+
 a:link{
     text-decoration: none;
 }
+
